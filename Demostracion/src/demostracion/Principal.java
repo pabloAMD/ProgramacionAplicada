@@ -16,6 +16,11 @@ public class Principal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        System.out.println("Programacion Aplicada");
+        System.out.println("Grupo 1");
+        System.out.println("Integrantes: Gabriela Fajardo-Pablo Malla");
+
     }
-    
+
 }
