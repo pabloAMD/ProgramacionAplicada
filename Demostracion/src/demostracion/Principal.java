@@ -20,6 +20,8 @@ public class Principal {
         System.out.println("Programacion Aplicada");
         System.out.println("Grupo 1");
         System.out.println("Integrantes: Gabriela Fajardo-Pablo Malla");
+        
+        System.out.println("Universidad Politecnica Salesiana")
 
     }
 
